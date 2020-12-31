@@ -1,0 +1,1 @@
+This is a simple tutorial of doing linear regression on a data set.
